@@ -1,6 +1,6 @@
 # 534RCH_F0R_N4M3
 
-This is a script for search all information on internet about a name and last name provided by the user. \n
+This is a script for search all information on internet about a name and last name provided by the user.
 
 *IMPORTANT:* This code is only for educational purposes. 
 
